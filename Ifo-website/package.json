@@ -2,7 +2,7 @@
   "name": "ifo-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ifocorp.github.io/ifo-website",
+  "homepage": "https://hatemquliyev.github.io/ci-test",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
